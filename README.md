@@ -1,15 +1,7 @@
 
 # News App
 
-A Breaking News App Using Flutter and [newsapi.org](https://newsapi.org/)          API
-
-  
-## Overview
-
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
+A Breaking News App Using Flutter and [newsapi.org](https://newsapi.org/) API
 
 ## Features
 - Dark and simple UI
